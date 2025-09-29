@@ -1,7 +1,5 @@
 import mysql.connector
 
-# config = {'user': 'root', 'password': 'db123456', 'database': 'mrc'}
-
 booking_cache = []
 
 class DBConnection():
